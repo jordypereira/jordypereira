@@ -1,6 +1,6 @@
 Hello.
 
-I'm currently working as Lead Developer E-Commerce at Happy Socks based in Stockholm, Sweden.  
+I'm currently working as the Lead Developer at Happy Socks based in Stockholm, Sweden.  
 
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
